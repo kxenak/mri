@@ -1,4 +1,4 @@
-# Physics of MRI: Comprehensive and Detailed Guide
+# Physics of MRI
 
 Magnetic Resonance Imaging (MRI) is a non-invasive imaging technology that utilizes magnetic fields and radio waves to generate detailed images of the internal structures of the body. This guide delves deeply into the physics of MRI, including the equipment used and the steps involved in image acquisition.
 
